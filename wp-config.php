@@ -20,13 +20,13 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'wo_sparkgps' );
+define( 'DB_NAME', 'u311423116_sparkgps' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'u311423116_sparkgps' );
 
 /** Database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'Sparkgps@2023' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
